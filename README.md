@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Youadeu Ingride</h1>
 <h3 align="center">I am a passionate ending Programming student from Cameroon looking forward for an internship opportunity.</h3>
 <img align= “right” alt=“coding” width=“400” src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)”>

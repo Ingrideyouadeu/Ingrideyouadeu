@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Youadeu Ingride</h1>
 <h3 align="center">I am a passionate ending Programming student from Cameroon looking forward for an internship opportunity.</h3>
-<img align= “right” alt=“coding” width=“400” src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)”>
+<img align= “right” alt=“coding” width=“400” src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoctietkiem.edu.vn%2Fhiring-tech-lead-app-project&psig=AOvVaw3jFe88S0cebNx6Y7cf7Gch&ust=1729878976106000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD-js_Lp4kDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/8e387b6d-76a9-4bab-9cf0-14878987194a)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingrideyouadeu&label=Profile%20views&color=0e75b6&style=flat" alt="ingrideyouadeu" /> </p>
 
